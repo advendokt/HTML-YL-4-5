@@ -1,0 +1,27 @@
+head {
+
+}
+
+body {
+
+}
+
+img {
+    float: left;
+    margin: 20px;
+    width: 300px;
+    height: auto;
+    border: 2px solid black;
+}
+
+#side {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+#sideleft {
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}

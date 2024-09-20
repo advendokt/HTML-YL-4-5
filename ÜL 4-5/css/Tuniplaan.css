@@ -1,0 +1,17 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+th {
+    background-color: #f2f2f2;
+}
+.monday { background-color: #f0a500; }
+.tuesday { background-color: #ffcccb; }
+.wednesday { background-color: #add8e6; }
+.thursday { background-color: #90ee90; }
+.friday { background-color: #d3d3d3; }

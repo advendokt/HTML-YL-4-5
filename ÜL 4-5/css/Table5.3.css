@@ -1,0 +1,16 @@
+table {
+    font-family:'Britannic', sans-serif;
+    font-style: italic;
+    color: grey;
+}
+
+tr {
+    font-variant: small-caps;
+    font-style: normal;
+    color: blue;
+}
+
+th {
+    text-align: center;
+    font-size: 20px;
+}
